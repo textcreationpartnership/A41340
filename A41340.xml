@@ -1,0 +1,661 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The first part of Dr. Faustus abreviated and brought into verse. Shewing the wickedness of his life, and the tyranny of the devil; who after he had insnared him by delusions and large promises of 24 years prosperiry [sic], threatened to pull and tear him in pieces when he seemed to repent. With many other things worthy to be minded.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1690</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 25 KB of XML-encoded text transcribed from 13 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A41340</idno>
+            <idno type="STC">Wing F977A</idno>
+            <idno type="STC">ESTC R217390</idno>
+            <idno type="EEBO-CITATION">99829057</idno>
+            <idno type="PROQUEST">99829057</idno>
+            <idno type="VID">33492</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A41340)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 33492)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1986:13)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The first part of Dr. Faustus abreviated and brought into verse. Shewing the wickedness of his life, and the tyranny of the devil; who after he had insnared him by delusions and large promises of 24 years prosperiry [sic], threatened to pull and tear him in pieces when he seemed to repent. With many other things worthy to be minded.</title>
+               </titleStmt>
+               <extent>[24] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by I. M[iller] for J. Deacon, and C: Dennisson, and are to be sold at their shops, at the Angel in Guilt-spur-street and at the Stationers-Arms within Aldgate,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[ca. 1690]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Title page and final page woodcuts.</note>
+                  <note>Place of publication and printer's name from, and date conjectured by, Wing.</note>
+                  <note>Running title reads: The first part of Doctor Faustus.</note>
+                  <note>In verse.</note>
+                  <note>Signatures: A B⁴.</note>
+                  <note>Reproduction of the original in the Magdalene College Library, Cambridge.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Faust, d. ca. 1540 --  Poetry --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-10</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2012-10</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:33492:1" rendition="simple:additions"/>
+            <p>
+               <hi>The Firſt Part</hi> OF Dr. Fauſtus, Abreviated and brought into <hi>VERSE.</hi> SHEWING The Wickedneſs of his, Life, and the Ty<g ref="char:EOLhyphen"/>ranny of the Devil; who after he had inſnared him by Deluſions and large promiſes of 24 Years proſperiry threatned to pull and tear him in pieces when he ſeem<g ref="char:EOLhyphen"/>ed to Repent. <hi>With many other things worthy to be minded.</hi>
+            </p>
+            <figure>
+               <figDesc>depiction of a robed male figure or Doctor Faustus holding a book or staff and standing within a circle of alchemical and zodiacal symbols; outside the circle is a devil or demon; there is an open window in the wall and on the wall are an empty bird-cage, a cross or crucifix, and many books; c.f. the title page of the 1616 John Wright edition of Marlowe's 'The tragicall history of the life and death of Doctor Faustus'</figDesc>
+            </figure>
+            <p>Printed by <hi>I. M.</hi> for <hi>I. Deacon,</hi> and <hi>C: Denniſſon,</hi> and are to be ſold at their Shops, at the Angel in <hi>Guilt-ſpur-Street</hi> and at the Stationers-Arms within Aldgate</p>
+         </div>
+      </front>
+      <body>
+         <div type="account">
+            <pb facs="tcp:33492:2"/>
+            <pb facs="tcp:33492:2"/>
+            <head>THE FIRST PART OF <hi>Doctor Fauſtus. SHEWING</hi> The VVickedneſs of his Life.</head>
+            <div n="1" type="chapter">
+               <head>CHAP. I. <hi>The place of his Birth and Education.</hi>
+               </head>
+               <l>STrange news I from the <hi>German</hi> Empire bring</l>
+               <l>A true account of a moſt horrid thing;</l>
+               <l>Done by one Doctor <hi>Fauſtus</hi> call'd by name,</l>
+               <l>Who by deluſion Satan overcame.</l>
+               <l>At <hi>Wittenberg</hi> this <hi>Fauſtus</hi> he did dwell,</l>
+               <l>A place in <hi>Germany</hi> is known full well;</l>
+               <l>His Uncle brought him up moſt carefully;</l>
+               <l>Putting him to the <hi>Univerſity;</hi>
+               </l>
+               <l>Twas his good old Uncles plain deſign,</l>
+               <l>That he ſhould ſtudy what is call'd divine:</l>
+               <pb facs="tcp:33492:3"/>
+               <l>But he inclined was to Sin by Nature,</l>
+               <l>And minded not the will of his Creator:</l>
+               <l>Giving himſelf to wicked exerciſe,</l>
+               <l>Forſaking that which only makes men wiſe;</l>
+               <l>And Negromancy he did ſtudy ſo,</l>
+               <l>That thereby he wrought his ſouls overthrow;</l>
+               <l>In ſinful manner then by day and night,</l>
+               <l>He ſpent his precious time, and took delight</l>
+               <l>In nothing elſe but what we count moſt Evil,</l>
+               <l>Offending God, to gratifie the Devil.</l>
+            </div>
+            <div n="2" type="chapter">
+               <head>CHAP. II. <hi>how Doctor</hi> Fauſtus <hi>began his deviliſh Act.</hi>
+               </head>
+               <l>POor <hi>Fauſtus</hi> thus deluded and undone,</l>
+               <l>His joys did vaniſh, and his woe begun;</l>
+               <l>For Satan evermore doth take great care,</l>
+               <l>To bring poor mortal men into a ſnare.</l>
+               <l>
+                  <hi>Fauſtus</hi> moſt Helliſh arts then underſtood,</l>
+               <l>And privately he haſted to a Wood,</l>
+               <l>Not diſtant far from whence he then did dwell,</l>
+               <l>And there invok'd a Damned Fiend of Hell;</l>
+               <l>And <hi>Mephoſtophiles</hi> he call'd his Name,</l>
+               <l>Who ſoon appeared in a dreadful flame:</l>
+               <l>Half frighted was he at this fearful ſight,</l>
+               <l>Which was about the hour of ten at night;</l>
+               <l>For at his coming he ſo loud did roar;</l>
+               <l>The frightned artiſt thought to call no more.</l>
+               <pb facs="tcp:33492:3"/>
+               <l>This Helliſh Fiend, which when the Devil knew,</l>
+               <l>He thought by policy him to ſubdue;</l>
+               <l>When he perceiv'd that he was ſo affrighted,</l>
+               <l>He ſtudies how to make him be delighted:</l>
+               <l>And ſtraightway he ſuch pleaſant muſick hears,</l>
+               <l>As ne'r before did fill his joyful Ears.</l>
+               <l>Theſe warbling Charms exceedingly did pleaſe,</l>
+               <l>No ſhape of man as yet the Doctor ſees:</l>
+               <l>But hopes, that in a very ſhort time he,</l>
+               <l>So much deſired without all doubt ſhould ſee;</l>
+               <l>So <hi>Mephoſtophiles</hi> he calls again,</l>
+               <l>Conjuring him by curſed <hi>Pluto</hi>'s Name:</l>
+               <l>When on a ſudden o're the Doctors head,</l>
+               <l>A mighty Dragon plainly hovered:</l>
+               <l>And in the Wood was ſuch a diſmal cry,</l>
+               <l>As if Hell would have open'd inſtantly:</l>
+               <l>And after that a flaſhing fiery flame,</l>
+               <l>Forth with a fiend immediately there came,</l>
+               <l>About the Circle that the Doctor made,</l>
+               <l>This beaſt did run, yet he was not affraid:</l>
+               <l>So for a time he ſeem'd to dance the Hay,</l>
+               <l>At laſt appear'd like to a Fryar in Gray:</l>
+               <l>What's thy requeſt? then did this Fryar ſay,</l>
+               <l>Tell me your mind and make you no delay.</l>
+               <l>To which the Doctor ſtraight way did reply,</l>
+               <l>Tomorrow wait on me, and don't deny,</l>
+               <l>At twelve a Clock come to me here be ſure,</l>
+               <l>but theſe commands the fryar could not endure</l>
+               <l>Till <hi>Fauſtus</hi> did by <hi>Belzehub</hi> Conjure.</l>
+               <pb facs="tcp:33492:4"/>
+               <l>The Spirit then did ſoon thereto agree,</l>
+               <l>The Doctor then homeward returned he.</l>
+            </div>
+            <div n="3" type="chapter">
+               <head>CHAP. III. <hi>The Doctors Conference with the Devil at his own Houſe.</hi>
+               </head>
+               <l>THe hour appointed quickly did draw near,</l>
+               <l>And <hi>Mephoſtophiles</hi> did there appear:</l>
+               <l>So Doctor <hi>Fauſtus</hi> did him thus Conjure,</l>
+               <l>All my commands you muſt obey be ſure;</l>
+               <l>Anſwer me true to all that I ſhall ask,</l>
+               <l>Fulfil my mind, for this muſt be your task:</l>
+               <l>Firſt, from this time ſo long as I have breath</l>
+               <l>Obey my will until the hour of death.</l>
+               <l>And ſecondly, what thing ſo e're I crave,</l>
+               <l>See that the ſame I inſtantly may have;</l>
+               <l>And thirdly, all that I ſhall ask of you,</l>
+               <l>What you reply, let e'ry word be true.</l>
+               <l>To which the Spirit quickly anſwer made,</l>
+               <l>He could not grant to all that he had ſaid;</l>
+               <l>But firſt he muſt acquaint his Prince with all,</l>
+               <l>For we our Rulers ſtill do princes call;</l>
+               <l>And thou thy ſelf doſt very much deceive,</l>
+               <l>To think I can do this without his leave;</l>
+               <pb facs="tcp:33492:4"/>
+               <l>And let me tell you Fauſtus, we as well,</l>
+               <l>A Kingdom have in our dark Pit of Hell,</l>
+               <l>As you on Earth, we Rulers have 'tis known,</l>
+               <l>And Servants too, for I my ſelf am one:</l>
+               <l>But <hi>Lucifer</hi> he is the Chief of all,</l>
+               <l>Inſulting pride procur'd his deadly fall;</l>
+               <l>Yet there's a Legion of Devils there</l>
+               <l>At his command, and of him ſtand in fear.</l>
+               <l>The Doctor then enrag'd, thus anſwered he,</l>
+               <l>I'le have my will, and will not Damned be.</l>
+               <l>The Spirit ſaid, thou ſhalt want thy deſire,</l>
+               <l>And yet ſhalt burn in neve-rceaſing fire;</l>
+               <l>Thy Infidelity thy ruine wrought,</l>
+               <l>And after death thou wilt to Hell be brought,</l>
+               <l>The Spirit then did vaniſh quite away,</l>
+               <l>And <hi>Fauſtus</hi> he did in his Cloſet ſtay;</l>
+               <l>Reſolving that his will he would have done,</l>
+               <l>Though he did yield to what they ſtood upon.</l>
+            </div>
+            <div n="4" type="chapter">
+               <head>CHAP. IV. <hi>The Spirits ſecond Apparition to</hi> Fauſtus.</head>
+               <l>THus where there the Spirit <hi>Fauſtus</hi> ſtaid,</l>
+               <l>Till night approach'd, and little was afraid</l>
+               <l>At laſt the ſwiſt-wing'd Spirit to him came,</l>
+               <pb facs="tcp:33492:5"/>
+               <l>Ask what thou wilt, quoth he, i'le do the ſame</l>
+               <l>My Prince commands me for to tell thee this,</l>
+               <l>He'l be at thy command, wilt thou be his?</l>
+               <l>The Spirit askt the Doctor his requeſt,</l>
+               <l>Come tell me truly, <hi>Fauſtus</hi> do not jeſt.</l>
+               <l>Then <hi>Fauſtus</hi> fainting, made him this reply,</l>
+               <l>Thou Damned art become, and ſo would <hi>I,</hi>
+               </l>
+               <l>If thou wilt to theſe articles agree,</l>
+               <l>Firſt, that I may a Devil be like thee:</l>
+               <l>And ſecondly, thou night and day ſhalt ſtand,</l>
+               <l>To wait on me, and do what I command.</l>
+               <l>Thirdly, if <hi>I</hi> do covet any thing,</l>
+               <l>Let it be what it will, thou muſt it bring.</l>
+               <l>Fourthly, thou ſhalt at all times preſent be,</l>
+               <l>Within my Houſe, and none but I ſee thee.</l>
+               <l>Laſtly, when I would have thee to come here,</l>
+               <l>In what ſhape <hi>I</hi> do pleaſe thou ſhalt appear,</l>
+               <l>The Spirit told him, wilt thou yield to me,</l>
+               <l>The things thou doſt deſire ſhall granted be:</l>
+               <l>Firſt, thou to <hi>Lucifer</hi> thy Soul ſhalt give,</l>
+               <l>&amp; ſerve him whilſt on Earth thou here doſt live.</l>
+               <l>And ſecondly, this muſt be underſtood,</l>
+               <l>He'l have a Writing written with thy blood.</l>
+               <l>Thirdly, thou ſhalt all Chriſtian people hate,</l>
+               <l>Who ſerve the God who firſt did thee create,</l>
+               <l>And of theſe terms, the fourth muſt be the chief,</l>
+               <l>Thou muſt deny the Chriſtian Belief.</l>
+               <l>Fifthly, that thou ſhalt any man deny,</l>
+               <l>Who from theſe Principles would have thee flye,</l>
+               <pb facs="tcp:33492:5"/>
+               <l>Then Satan promiſed to <hi>Fauſtus,</hi> he</l>
+               <l>Should many years live in Proſperity:</l>
+               <l>And when thou dyeſt, the Spirit then did ſay,</l>
+               <l>The Fiends of Hell ſhall fetch thee quite away?</l>
+               <l>But wicked <hi>Fauſtus</hi> did to this agree,</l>
+               <l>So Damn'd his Soul to all Eternity.</l>
+            </div>
+            <div n="5" type="chapter">
+               <head>CHAP. V. <hi>The third Parly between</hi> Fauſtus <hi>and</hi> Mephoſtophiles.</head>
+               <l>WHen <hi>Fauſtus</hi> had his precious Soul betray'd,</l>
+               <l>and to the Devil had this promiſe made,</l>
+               <l>He call'd his Spirit on him to attend,</l>
+               <l>Who from th' infernal Lake did ſoon aſcend;</l>
+               <l>Commanding him, like a <hi>Franciſcan</hi> Fryar,</l>
+               <l>Still to appear, for it was his deſire:</l>
+               <l>And like St. <hi>Anthany</hi> come with a Bell,</l>
+               <l>That of his coming he might know full well.</l>
+               <l>
+                  <hi>Fauſtus</hi> demanded then the Spirits name,</l>
+               <l>Who very willingly told him the ſame:</l>
+               <l>My name is <hi>Mephoſtophiles;</hi> ſaid he,</l>
+               <l>And am a Prince that now doth wait on thee.</l>
+               <l>Thus <hi>Fauſtus</hi> was content with his Souls loſs,</l>
+               <l>But ſmeet meats often have the ſoureſt ſauce.</l>
+               <l>This Obligation <hi>Fauſtus</hi> was to make,</l>
+               <pb facs="tcp:33492:6"/>
+               <l>Which he performed for his promiſe-ſake;</l>
+               <l>And with a Pen-knife he did make a wound,</l>
+               <l>And writ the words that did his Soul confound</l>
+            </div>
+            <div n="6" type="chapter">
+               <head>CHAP: VI. Fauſtus <hi>warms his Blood in a Sawter and writ<gap reason="illegible" resp="#MURP" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> as followeth.</hi>
+               </head>
+               <l>I Doctor <hi>Fauſtus</hi> do confeſs your due</l>
+               <l>Is for to have both Soul and Body too;</l>
+               <l>I with my Pen the ſame do now declare;</l>
+               <l>Writ with my hand, ſeal'd with my blood they,</l>
+               <l>Provided you your promiſe do make good,</l>
+               <l>Which by the Lines above are underſtood:</l>
+               <l>That after twenty-four years do expire,</l>
+               <l>If I before ſatisfie my deſire.</l>
+               <l>And what I do command you do obey,</l>
+               <l>You then ſhall carry <hi>Fauſtus</hi> hence away:</l>
+               <l>In the mean time I do expect to have</l>
+               <l>The power to raiſe dead bodies from the grave</l>
+               <l>And have at will whatever I deſire,</l>
+               <l>By your aſſiſtance, e're theſe years expire:</l>
+               <l>And if what I deſire you grant to me,</l>
+               <l>Then <hi>Lucifer, Fauſtus</hi> ſhall come to thee.</l>
+            </div>
+            <div n="7" type="chapter">
+               <pb facs="tcp:33492:6"/>
+               <head>CHAP. VII. <hi>How the Spirit came for his Writing, in what ſhape, and what he ſhewed him; cauſing him to keep a Coppy of his own Writing.</hi>
+               </head>
+               <l>AS Doctor <hi>Fauſtus</hi> was pauſing alone,</l>
+               <l>Except 1 boy, then with him there was none;</l>
+               <l>The Spirit ſuddenly unto him came,</l>
+               <l>Appearing in a dreadful fiery Flame;</l>
+               <l>The Boy affrighted was and much diſmay'd,</l>
+               <l>His Maſter bid him not to be afraid,</l>
+               <l>No harm ſhould come to him, the Spirit then</l>
+               <l>Began to ſhew ſome pretty tricks agen;</l>
+               <l>Which pleaſed <hi>Fauſtus</hi> moſt exceeding well,</l>
+               <l>Such tricks before he ne'r ſee come from Hell:</l>
+               <l>A mighty Army preſently appear'd,</l>
+               <l>Trampling of Horſes too by them was heard;</l>
+               <l>And after this a pack of greedy Hounds,</l>
+               <l>Did chaſe a Hart ſeemingly through the grounds</l>
+               <l>This ceaſing, then appeared to their ſight,</l>
+               <l>A Lyon and a Dragon both in fight,</l>
+               <l>The Dragon over came the Lyon then,</l>
+               <l>Away the Dragon vaniſht to his Den.</l>
+               <l>A Peacock and a Pea-Hen then came in,</l>
+               <pb facs="tcp:33492:7"/>
+               <l>To beat the Hen, the Peacock did begin:</l>
+               <l>He bruſſling of his tayl, beat her ſo ſore,</l>
+               <l>They vaniſht then, and ſo was ſeen no more.</l>
+               <l>A furious Bull came in at <hi>Fauſtus</hi> run,</l>
+               <l>But vaniſht e're any harm was done:</l>
+               <l>A ſudden miſt upon them then did fall,</l>
+               <l>And <hi>Fauſtus</hi> he could ſee no light at all,</l>
+               <l>But when the light appear'd he did behold</l>
+               <l>Two Sacks; one full of Silver, one of Gold.</l>
+               <l>Laſtly, ſuch pleaſant muſick he did hear,</l>
+               <l>that pleas'd him, yet nothing did appear:</l>
+               <l>At laſt did <hi>Mephoſtophiles</hi> come in,</l>
+               <l>And thus to treat him <hi>Fauſtus</hi> did begin:</l>
+               <l>So well thou now haſt pleas'd me in my mind,</l>
+               <l>That if ſuch paſtime I can always find,</l>
+               <l>My mind i<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>le never change, but thou ſhalt ſee,</l>
+               <l>Both Soul and Body I will give to thee.</l>
+               <l>But <hi>Mephoſtophiles</hi> did ſoon reply,</l>
+               <l>With greater wonders I will pleaſe thine Eye</l>
+               <l>Command me what thou wilt and thou ſhalt ſee</l>
+               <l>I in a moment will provide it thee;</l>
+               <l>But firſt <hi>I</hi> want the Writing thou haſt made,</l>
+               <l>Give me but that, I'le do what I have ſaid,</l>
+               <l>Then ſtretching forth his hand, here take, ſaid he</l>
+               <l>The Writing that I did provide for thee.</l>
+               <l>And <hi>Mephoſtophiles</hi> thus to him ſpake,</l>
+               <l>Wiſhing that he ſhould a coppy take;</l>
+               <l>Which being done, together they did ſtay,</l>
+               <l>He waited on the Doctor night and day.</l>
+            </div>
+            <div n="8" type="chapter">
+               <pb facs="tcp:33492:7"/>
+               <head>CHAP. VIII. Fauſtus'<hi>s Damnable Proceeding, and the</hi> Devils <hi>diligence.</hi>
+               </head>
+               <l>WHen <hi>Fauſtus</hi> finiſht had his curſt deſign,</l>
+               <l>He then grew bold, &amp; did no whit repine,</l>
+               <l>His Helliſh Servant ſtill was diligent,</l>
+               <l>To fill his Maſters mind with all content:</l>
+               <l>For what ſoe're he did deſire to eat,</l>
+               <l>Though hollow Fowls, or any other meat;</l>
+               <l>Or did he wiſh to taſt all ſorts of Wine,</l>
+               <l>That were on this ſide or beyond the Line:</l>
+               <l>Or were it all the World, be't what it will.</l>
+               <l>This Devil would his luſtful mind fullfil,</l>
+               <l>And from great Dukes would ſteal them all away</l>
+               <l>What he deſire'd was quickly made his prey,</l>
+               <l>Sy by this means his God he ſoon forgot,</l>
+               <l>And that he mortal was ſuppoſed not.</l>
+            </div>
+            <div n="9" type="chapter">
+               <pb facs="tcp:33492:8"/>
+               <head>CHAP. IX. <hi>How</hi> Fauſtus <hi>would have Married, and how the De<g ref="char:EOLhyphen"/>vil beat him for it.</hi>
+               </head>
+               <l>
+                  <hi>FAuſtus</hi> not dreaming he had ſo miſcarried,</l>
+               <l>Forgot his promiſe, &amp; would needs be married</l>
+               <l>His Spirit thereunto would not agree,</l>
+               <l>But bid him be content, it could not be,</l>
+               <l>Thou haſt indented unto the contrary,</l>
+               <l>And do you now intend for to forſwear ye?</l>
+               <l>No, no, be ſure you mind what you have ſworn</l>
+               <l>Or elſe in pieces you will ſoon be torn:</l>
+               <l>Marriage appointed is by God, then why</l>
+               <l>Should you mind that who muſt for ever fry?</l>
+               <l>The Doctor hearing this, fell in diſpair,</l>
+               <l>Fearing the Devil would in pieces tear</l>
+               <l>His curſed Body, and did then deny,</l>
+               <l>And after this I Marriage will defie.</l>
+               <l>Thou haſt done well, quoth he, but now behold;</l>
+               <l>His flaming fancy was not yet grown cold:</l>
+               <l>But ſoon his ſpirit call'd to him again,</l>
+               <l>And thus to him began for to complain,</l>
+               <l>I can't ſubdue my fancy for my Life,</l>
+               <l>I muſt and will by all means have a Wife:</l>
+               <pb facs="tcp:33492:8"/>
+               <l>Without one I can never be content,</l>
+               <l>Then unto this I prithee give conſent.</l>
+               <l>A mighty VVhirl-wind then there did ariſe,</l>
+               <l>Which did the Doctor much with fear ſurprize.</l>
+               <l>And afterwards the Houſe ſo ſtrangely ſmoak'd,</l>
+               <l>That the poor Doctor he was almoſt choakd,</l>
+               <l>Then up the ſtairs he ran with might and main,</l>
+               <l>But quickly he was tumbled down again:</l>
+               <l>And flames of fire in circles round him run,</l>
+               <l>The Doctor then cry'd out he was undone;</l>
+               <l>Come now and help me this one time, quoth he,</l>
+               <l>To my Subſcription I will faithful be.</l>
+               <l>Another Devil then to him appear'd</l>
+               <l>So ugly, that poor <hi>Fauſtus</hi> was afear'd</l>
+               <l>To look on him, and thus the Fiend did ſay,</l>
+               <l>
+                  <hi>Fauſtus</hi> how doſt thou like thy wedding day?</l>
+               <l>How then to anſwer was to him unknown,</l>
+               <l>But pardon then he begg'd of him alone.</l>
+            </div>
+            <div n="10" type="chapter">
+               <pb facs="tcp:33492:9"/>
+               <head>CHAP. X. <hi>Queſtions asked by</hi> Fauſtus <hi>of his Spirit</hi> Mephoſtophilis.</head>
+               <l>AFter this time <hi>Fauſtus</hi> did ſtrangely live,</l>
+               <l>And wholly did himſelf to pleaſure give,</l>
+               <l>So on a time he did his Spirit call,</l>
+               <l>And askt him how his Maſter came to fall</l>
+               <l>From Heavens joys into the pains of Hell</l>
+               <l>To this the Spirit preſently reply'd,</l>
+               <l>The great and chiefeſt cauſe of this was pride,</l>
+               <l>For God made him an Angel for to be,</l>
+               <l>To live with him in bleſt Eternity:</l>
+               <l>But he aſpiring, too great was his pride,</l>
+               <l>And now muſt be for ever terrify'd.</l>
+            </div>
+            <div n="11" type="chapter">
+               <pb facs="tcp:33492:9"/>
+               <head>CHAP. XI. <hi>More Queſtions asked by</hi> Fauſtus <hi>of his Spirit</hi> Mephoſtophiles, <hi>concerning Hell.</hi>
+               </head>
+               <l>The following night <hi>fauſtus</hi> he ſtrangly <hi>dream'd</hi>
+               </l>
+               <l>And in his dream affrighted much he ſeem'd</l>
+               <l>He thought he plainly ſaw a part of Hell,</l>
+               <l>But what it was, he could by no means tell;</l>
+               <l>And waking, he did for his ſpirit call,</l>
+               <l>That he by him might know the truth of all;</l>
+               <l>And being come, he took him unto task,</l>
+               <l>Then did he of him ſeveral Queſtions ask:</l>
+               <l>What's Hell qd. he? &amp; of what ſubſtance made?</l>
+               <l>Where does it ſtand? to whom the ſpirit ſaid,</l>
+               <l>Thou ſoon ſhalt know there was no Hell at all,</l>
+               <l>Before great <hi>Lucſfer</hi>'s unhappy fall;</l>
+               <l>And after that was preſently ordain'd,</l>
+               <l>A place for wicked Devils to be chain'd;</l>
+               <l>What ſubſtance it is of, no Devils know,</l>
+               <l>But 'tis a ſtrange confuſed place below;</l>
+               <l>Of a foundation none of us can tell,</l>
+               <l>So ſtrange a place is our accurſed Hell;</l>
+               <l>No end not bottom there is I believe,</l>
+               <l>Experience an account in time will give.</l>
+            </div>
+            <div n="12" type="chapter">
+               <pb facs="tcp:33492:10"/>
+               <head>CHAP. XII. <hi>More Queſtions asked by</hi> Fauſtus, (Viz.) <hi>What Kingdoms was in</hi> Hell, <hi>and what the Rulers Names was?</hi>
+               </head>
+               <l>
+                  <hi>Fauſtus</hi> again deſires ſtrange things to know,</l>
+               <l>And <hi>Mephoſtophiles</hi> calls from below,</l>
+               <l>Strange things, quoth he, thou haſt aready told,</l>
+               <l>Now one thing more I pray thee to unfold.</l>
+               <l>
+                  <hi>What Kingdoms are there where the Devils dwell</hi>
+               </l>
+               <l>
+                  <hi>Or what call you their Names that rule in Hell?</hi>
+               </l>
+               <l>My <hi>Fauſtus</hi> then, quoth he thou ſoon ſhalt know,</l>
+               <l>There is ten Kingdoms that we have below:</l>
+               <l>There's <hi>Lucus Morbis, Stagnuia, Ignis too,</hi>
+               </l>
+               <l>And <hi>Terra Tenchroſa,</hi> this is true:</l>
+               <l>The fourth is <hi>Tartarus,</hi> and there one is,</l>
+               <l>By dwellers there, call'd <hi>Terra Oblivonis;</hi>
+               </l>
+               <l>The ſixth <hi>Gehenna,</hi> the next <hi>Erebus,</hi>
+               </l>
+               <l>And theſe are names that common are with us:</l>
+               <l>There's <hi>Barathrum,</hi> and <hi>Setix,</hi> and <hi>Athiron,</hi>
+               </l>
+               <l>I think I ſhall have nam'd them all anon.</l>
+               <l>
+                  <hi>Lucifer</hi> governs o're the <hi>Orient,</hi>
+               </l>
+               <l>And <hi>Aſceroth</hi> doth Rule the <hi>Orident.</hi>
+               </l>
+               <pb facs="tcp:33492:10"/>
+               <l>And <hi>Belzehub</hi> rules in <hi>Septertrio;</hi>
+               </l>
+               <l>And <hi>Bellal</hi> in <hi>Meredid,</hi> I do know,</l>
+               <l>
+                  <hi>Phlegeton</hi> is i'th middle of them all,</l>
+               <l>The greateſt Sinners thereinto do fall.</l>
+            </div>
+            <div n="13" type="chapter">
+               <head>CHAP. XIII. Fauſtus <hi>begins to repent his wicked deed.</hi>
+               </head>
+               <l>
+                  <hi>Fauſtus</hi> was ne'r with Queſtions ſatisfi'd,</l>
+               <l>But ſtill ask't more concerning <hi>Pluto</hi>'s pride;</l>
+               <l>What was he, when quoth he, he liv'd above,</l>
+               <l>Bleſt with the Smiles of great <hi>Iehovah</hi>'s love?</l>
+               <l>To which the Spirit preſently ſtood mute,</l>
+               <l>And beg'd he'd give him 3 days time to do't?</l>
+               <l>Three days expir'd, he then this anſwer gave,</l>
+               <l>
+                  <hi>Lucifer</hi> now, a damn'd accurſed Slave,</l>
+               <l>Was then above, an Angel clear and bright,</l>
+               <l>In whom the great Creator took delight:</l>
+               <l>But he did covet Gods Almighty Throne,</l>
+               <l>And is therefore made an accurſed one.</l>
+               <l>At firſt he did ſurpaſs the Glorious Sun,</l>
+               <l>Now by his Pride, for ever he's undone:</l>
+               <l>In Heaven he had a Kingly Office great,</l>
+               <l>Now baniſht from the Almighty's bleſſed Seat.</l>
+               <pb facs="tcp:33492:11"/>
+               <l>The Doctor minding what the Spirit ſaid,</l>
+               <l>Grew penſive, and in heart almoſt afraid;</l>
+               <l>Into his Chamber ſtraightway then he went,</l>
+               <l>Oppreſt with care, and fill'd with diſcontent:</l>
+               <l>Ah, woe is me, quoth he, what have I done?</l>
+               <l>I've loſt that Kingdom which I might have Won</l>
+               <l>I once Gods Image wore, but now I ſee,</l>
+               <l>I from his preſence baniſhed muſt be:</l>
+               <l>With <hi>Lucifer</hi> I muſt in torments dwell,</l>
+               <l>My Pride, like his, hath caſt me into Hell.</l>
+            </div>
+            <div n="14" type="chapter">
+               <head>CHAP. XIV. Fauſtus <hi>asketh the Spirit the</hi> Devils <hi>Power and Enmity to Mankind in this manner.</hi>
+               </head>
+               <l>
+                  <hi>FAuſtus</hi> unſatisfied, ask Queſtions ſtill,</l>
+               <l>Thinking to compaſs his ambitious will:</l>
+               <l>Quoth he, now tell me truly, whats the cauſe,</l>
+               <l>That Satan ſtill doth violate Gods Laws?</l>
+               <l>For I do well obeſrve he is inclin'd,</l>
+               <l>To ſeek the utter ruine of mankind.</l>
+               <l>To which the Spirit ſtraightway did reply,</l>
+               <l>When <hi>Lucifer</hi> was curſt by God on high,</l>
+               <l>And caſt into this utter darkneſs then,</l>
+               <l>An Enemy he grew to God and Men:</l>
+               <pb facs="tcp:33492:11"/>
+               <l>He cauſes all the wickedneſs that is,</l>
+               <l>And he's the cauſe ſo many does amiſs;</l>
+               <l>Some fall into diſpair, and cruelly</l>
+               <l>Lay hands upon themſelves and murdering dye:</l>
+               <l>He cauſed <hi>Adam</hi> firſt for to tranſgreſs,</l>
+               <l>And then began all Mens unhappineſs:</l>
+               <l>He was the cauſe poor <hi>Abel</hi> he was ſlain,</l>
+               <l>By that his unkind Brother <hi>Cain;</hi>
+               </l>
+               <l>By him all fleſh into Rebellion run,</l>
+               <l>And he's the cauſe if all the World's undone.</l>
+            </div>
+            <div n="15" type="chapter">
+               <pb facs="tcp:33492:12"/>
+               <head>CHAP. XV. Fauſtus <hi>deſires to know more of</hi> Hell, <hi>and whether the</hi> Devils <hi>might ever come into Favour with God.</hi>
+               </head>
+               <l>
+                  <hi>FAuſtus</hi> diſpairing of all mercy then,</l>
+               <l>Doth call his ſpirit to diſcourſe agen;</l>
+               <l>Tell me, quoth he, how do the Damned dwell?</l>
+               <l>What pains do they endure that are in Hell?</l>
+               <l>Will the Almighty e're be reconcil'd,</l>
+               <l>To him who fain would have his God beguil'd</l>
+               <l>Forbear, quoth he, do not ſuch queſtions raiſe,</l>
+               <l>They' breed but trouble to thee all thy days.</l>
+               <l>Quoth <hi>Fauſtus,</hi> I muſt know or i'le not live,</l>
+               <l>Then did the Spirit him this anſwer give:</l>
+               <l>Forth from the Lake of Hell, 'twas never known</l>
+               <l>That ever any came, except 'twere one;</l>
+               <l>With him thou nothing haſt to do, 'tis plain,</l>
+               <l>Thoſe that are Damn'd muſt ſtill in Hell remain.</l>
+               <l>There is ſuch pains that tongue cannot expreſs,</l>
+               <l>The wrath of God, and endleſs bitterneſs:</l>
+               <l>Sometimes they burn in flames, none can endure,</l>
+               <l>And ſometimes froſts their torments do procure,</l>
+               <l>To go about to tell you, all's in vain,</l>
+               <l>For tongue cannot expreſs their endleſs pain</l>
+               <pb facs="tcp:33492:12" rendition="simple:additions"/>
+               <l>That damned Souls do feel, in Hell that lye,</l>
+               <l>Doth burn and freeze, and yet they cannot dye:</l>
+               <l>And now O <hi>Fauſtus!</hi> let me tell to thee,</l>
+               <l>All this and more will ſure thy portion be.</l>
+               <l>When thou doſt come to be with us in Hell,</l>
+               <l>Thou ſhalt be poyſon'd with a noyſom ſmell.</l>
+               <l>There thou ſhalt grow deaf, thy hand ſhall tremble</l>
+               <l>The Devils with their firebrands ſhall be nimble</l>
+               <l>To toſs thee too and fro, from one to th'other,</l>
+               <l>
+                  <gap reason="illegible" resp="#MURP" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> ſtinking brimſtone ſhall them almoſt ſmother.</l>
+               <l>Thou ſhalt tormented be, but ſhall not flye,</l>
+               <l>Thou then ſhalt wiſh for death, but ſhalt not dye,</l>
+               <l>And to be ſhort, thy pains ſhall ſtill encreaſe,</l>
+               <l>Never to end, nor never to find eaſe,</l>
+               <l>And more &amp; moe thy plagues ſhall thee torment</l>
+               <l>What-ſayſt thou now? can this breed thy content?</l>
+               <l>How lik'ſt thou this that I relate to thee,</l>
+               <l>This is the ſtate wherein the Damned be.</l>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+         <div type="illustration">
+            <pb facs="tcp:33492:13"/>
+            <p>
+               <figure>
+                  <figDesc>depiction of a robed male figure or Doctor Faustus holding a book or staff and standing within a circle of alchemical and zodiacal symbols; outside the circle is a devil or demon; there is an open window in the wall and on the wall are an empty bird-cage, a cross or crucifix, and many books; c.f. the title page of the 1616 John Wright edition of Marlowe's 'The tragicall history of the life and death of Doctor Faustus'</figDesc>
+               </figure>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>
